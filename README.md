@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ReziAfrialdi
 - 👀 I’m interested in design & software development
-- 🌱 I’m currently learning React js
+- 🌱 I’m currently learning React js & Next js
 
 <!---
 ReziAfrialdi/ReziAfrialdi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
